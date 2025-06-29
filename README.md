@@ -7,7 +7,7 @@ I'm a passionate developer exploring the world of full-stack development, buildi
 
 ---
 ## Links
-[LinkedIn](https://www.linkedin.com/in/aditya-maheshwari4/) [Leetcode](https://leetcode.com/u/Aditya_Maheshwari_/) 
+[LinkedIn](https://www.linkedin.com/in/aditya-maheshwari4/)  [Leetcode](https://leetcode.com/u/Aditya_Maheshwari_/)  [HackerRank](https://www.hackerrank.com/profile/adityamaheshwar8) 
 
 <!--
 **AdityaMaheshwari30114/AdityaMaheshwari30114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
