@@ -3,7 +3,9 @@ I'm a passionate developer exploring the world of full-stack development, buildi
 
 ---
 ## Leetcode Info
-![25_50](https://github.com/user-attachments/assets/7538b026-68e4-4e24-958a-b9b82a2630ab) ![2024-50](https://github.com/user-attachments/assets/e1c69aad-6d8d-4edc-bfc7-499171cb6332)
+<img src="https://github.com/user-attachments/assets/7538b026-68e4-4e24-958a-b9b82a2630ab" width="250" />
+<img src="https://github.com/user-attachments/assets/b80a4c6a-143b-4cd5-95c3-4bb27d3ea60b" width="250" />
+<img src="https://github.com/user-attachments/assets/e1c69aad-6d8d-4edc-bfc7-499171cb6332" width="250" />
 
 ---
 ## Links
